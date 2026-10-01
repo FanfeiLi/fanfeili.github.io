@@ -220,6 +220,12 @@ body {
     font-weight: 500;
 }
 
+.oral-badge {
+    color: #dc2626;
+    font-weight: 600;
+    margin-left: 0.5rem;
+}
+
 .paper h3 {
     font-size: 1rem;
     line-height: 1.5;
